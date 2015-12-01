@@ -1,0 +1,23 @@
+{
+  "name": "node-rmdir",
+  "version": "1.0.0",
+  "description": "node style rmdir",
+  "main": "rmdir.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkane11/node-rmdir.git"
+  },
+  "keywords": [
+    "rmdir",
+    "node"
+  ],
+  "author": "Ben Kane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkane11/node-rmdir/issues"
+  },
+  "homepage": "https://github.com/bkane11/node-rmdir#readme"
+}
